@@ -11,7 +11,7 @@ export const users = [
     firstName: "nayanendu",
     lastName: "naskar",
     username: "nayanendunaskar@gmail.com",
-    password: "123",
+    password: "0000",
     userHandler: "nayan19981",
     profilePic:"https://img.freepik.com/free-vector/man-with-mustache_1308-83591.jpg?w=740&t=st=1688316941~exp=1688317541~hmac=f674703d093ef62f269bbfd42c6d6654517c5f0a4882854062229a58fa087a03",
     link:"https://nayanendu-personalized.netlify.app/",
