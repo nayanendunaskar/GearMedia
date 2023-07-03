@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import logo from "../../Assets/JVX7.gif";
+import logo from "../../Assets/circle.png";
 import { Search } from "../Search/Search";
 import { useData } from "../../Context/DataContext";
 
@@ -25,7 +25,7 @@ export const Navbar = () => {
       <div className="nav-logo">
         <img src={logo} alt="logo" height={50} width={50} />
       </div>
-      <div className="nav-heading" onClick={()=>navigate("/")}>Speedy Social</div>
+      <div className="nav-heading" onClick={()=>navigate("/")}>Gear Media</div>
     </div>
     <div className="search-navbar">
       <Search />

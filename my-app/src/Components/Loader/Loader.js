@@ -1,5 +1,5 @@
 import React from 'react'
-import circle from '../../Assets/circle.png'
+import circle from '../../Assets/JVX7.gif'
 import './Loader.css'
 
 export const Loader = () => {
