@@ -31,7 +31,7 @@ export const EditProfile = ({ setEditBtn, editBtn }) => {
     setEditBtn(!editBtn);
   };
 
-  //   console.log(loggedInUser)
+  
 
   const avatars = [
     "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436178.jpg?w=740&t=st=1688316888~exp=1688317488~hmac=df3021231870bc416503cf6dccd573cbcaff8eeb1491de5898f58678ae75df45",
