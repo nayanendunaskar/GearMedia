@@ -29,7 +29,7 @@ import { IoMdArrowRoundBack } from "react-icons/io";
 
 export const SinglePost = ({ data, showComment }) => {
   const [menuBtn, setMenuBtn] = useState(false);
-  // const [commentToggle,setCommentToggle]=useState(false)
+  
   const {
     dataState: { users },
     dataDispatch,
@@ -112,7 +112,7 @@ export const SinglePost = ({ data, showComment }) => {
 
   const handleShare = () => {
     navigator.clipboard.writeText(
-      //`https://WEBSITE URL/post/${data?.id}`
+      `https://nayanendu-personalized.netlify.app//post/${data?.id}`
     );
 
     toast.success("Copied To Clipboard");
