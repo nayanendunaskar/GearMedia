@@ -1,7 +1,7 @@
 .navbar {
     display: flex;
     align-items: center;
-    background-color: #0b2239;
+    background-color: #020304;
     min-height: 70px; 
     max-height: 80px;
     color: white;
@@ -127,5 +127,5 @@
   .searchResult-item:hover .user-follow-name,
   .searchResult-item:hover .userId {
   
-    color:  lightcoral
+    color:  rgb(114, 177, 52)
   }

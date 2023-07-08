@@ -87,7 +87,7 @@
   }
   .userId {
     font-size: small;
-    color: lightcoral;
+    color: rgb(136 176 40);
   }
   
   @media (min-width: 1020px) {
@@ -179,7 +179,7 @@
   
     .userId {
       font-size: 0.8rem;
-      color: lightcoral;
+      color: rgb(136 176 40);
       margin-left: 0.5rem;
     }
     .main-followbar{

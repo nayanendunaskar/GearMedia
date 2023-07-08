@@ -60,7 +60,7 @@
     padding-left: 0.5rem;
   }
   .item-name:hover {
-    color: #8e44ad
+    color: #61b03a
   }
   .Menubar-list-item {
     display: flex;
@@ -75,11 +75,11 @@
   }
   .navlink-MenuBar:hover{
     text-decoration: none;
-    color: #8e44ad
+    color: rgb(136 176 40);
   }
   .MenuBarProfile{
     display: flex;
-    color: #8e44ad;
+    color: C;
     position: fixed;
     bottom: 5%;
   }
