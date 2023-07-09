@@ -31,7 +31,7 @@
   
   .FollowBar::-webkit-scrollbar-thumb {
     border-radius: 0;
-    background: var(--primary);
+    background: rgb(136, 169, 59);
   }
   
   .followbar-heading {
@@ -74,7 +74,7 @@
     padding: 1rem;
   }
   .btn-follow {
-    background-color: #312d7a;
+    background-color: #55555a;
     border: none;
     padding: 0.6rem;
     margin-top: 0.4rem;
@@ -87,7 +87,7 @@
   }
   .userId {
     font-size: small;
-    color: rgb(136 176 40);
+    color: rgb(136, 169, 59);
   }
   
   @media (min-width: 1020px) {
@@ -103,7 +103,7 @@
       margin-top: 1rem;
       overflow-y: auto;
       scrollbar-width: thin;
-      scrollbar-color: var(--primary) #eeeeee;
+      scrollbar-color: rgb(136, 169, 59) #eeeeee;
       overflow-x:hidden;;
    
     }
@@ -161,7 +161,7 @@
     }
   
     .btn-follow {
-      background-color: #312d7a;
+      background-color: #55555a;
       color: white;
       border: none;
       padding: 0.6rem 1.2rem;

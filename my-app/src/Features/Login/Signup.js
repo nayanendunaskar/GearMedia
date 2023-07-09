@@ -67,7 +67,7 @@ export const Signup = () => {
           <div className="nav-logo">
             <img src={logo} alt="logo" height={50} width={50} />
           </div>
-          <h2 className="headingName">SpeedySocial</h2>
+          <h2 className="headingName">GearMedia</h2>
         </div>
         <div className="flex gap-5">
           <input

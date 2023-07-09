@@ -39,12 +39,12 @@ export const MenuBar = () => {
   const getActiveStyle = ({ isActive }) => {
     if (isActive && !darkMode) {
       return {
-        color: isActive && " #8e44ad ",
+        color: isActive && " rgb(136 176 40) ",
 
       };
     }else{
       return {
-        color: isActive && "lightcoral",
+        color: isActive && "rgb(136 176 40)",
       }
     }
   };
