@@ -41,7 +41,7 @@
   }
   
   .editInnerConatainer::-webkit-scrollbar-thumb {
-    background-color: #1e293b;
+    background-color: #67b829;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -50,12 +50,12 @@
   }
   
   .editInnerConatainer::-webkit-scrollbar-thumb:hover {
-    background-color: #1e293b;
+    background-color: #67b829;
   }
   
   .updateBtn {
     padding: 0.4rem 1rem;
-    background-color: #312d7a;
+    background-color: #7fc42a;
     color: white;
     margin: 1rem;
     border: none;

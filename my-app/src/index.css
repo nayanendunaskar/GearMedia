@@ -4,7 +4,7 @@
 
 
   :root {
-  --primary: #0b2239;;
+  --primary: rgb(136 176 40);;
   --secondary: #edf2f6;
   --primary-dark:#1f1a24;
 }

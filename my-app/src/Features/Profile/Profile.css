@@ -39,7 +39,7 @@
     -o-border-radius: 50%;
   }
   .EditBtn {
-    background-color: #312d7a;
+    background-color: #55555a;
     padding: 0.7rem;
     color: white;
     border: none;
@@ -68,7 +68,7 @@
     color: white;
   }
   .profile-link {
-    color: blueviolet;
+    color: rgb(159, 226, 43);
     margin: 0.5rem 0rem;
     text-decoration: none;
   }

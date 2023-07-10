@@ -76,7 +76,7 @@
     transition: background-color 0.3s ease;
   }
   .login-btn:hover {
-    background-color: #22476d;
+    background-color: #5a5e63;
   }
   .loginAsGuest-btn {
     padding: 0.5rem;
